@@ -1,0 +1,5 @@
+{
+  "name": "QuickSlot",
+  "description": "An intelligent web application to automatically generate optimized class timetables for educational institutions. Input constraints to generate your schedule with QuickSlot.",
+  "requestFramePermissions": []
+}
